@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>simple java script example</title>
+</head>
+<body>
+HTML text goes here.
+<script language ="Javascript">
+document.write("here is my output.")
+</script>
+</body>
+</html>
